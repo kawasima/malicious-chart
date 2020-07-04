@@ -1,0 +1,9 @@
+jekyll:
+  image: jekyll/jekyll:pages
+  command: jekyll serve --config _config.yml,_config_development.yml --watch --incremental
+  environment:
+    - JEKYLL_ENV=development
+  ports:
+    - 4000:4000
+  volumes:
+    - .:/srv/jekyll

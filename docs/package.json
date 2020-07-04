@@ -1,0 +1,7 @@
+{
+  "name": "malicious-chart-docs",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Yoshitaka Kawashima <kawasima1016@gmail.com>",
+  "license": "MIT"
+}
