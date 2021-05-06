@@ -8,7 +8,7 @@
   "dependencies": {
     "bulma": "^0.9.0",
     "bulma-slider": "^2.0.4",
-    "highcharts": "^8.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-3d": "^0.1.7",
     "highcharts-react-official": "^3.0.0",
     "react": "^16.13.1",
